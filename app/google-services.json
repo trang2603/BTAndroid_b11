@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125215338612",
+    "project_id": "gpsmap-c2280",
+    "storage_bucket": "gpsmap-c2280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125215338612:android:3fa77cb20a1c79c6e8e121",
+        "android_client_info": {
+          "package_name": "com.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXE1ycq5z2unynwmN39XR7cK9ghwlEL_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125215338612:android:96ead9d87a95052ee8e121",
+        "android_client_info": {
+          "package_name": "com.example.firebase_realtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXE1ycq5z2unynwmN39XR7cK9ghwlEL_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

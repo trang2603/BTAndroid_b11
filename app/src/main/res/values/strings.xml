@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BTAndroid_b11</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="api_key">AIzaSyD4zZvell1TpWVG4bJDXtI89IzxJn1Wb0w</string>
+    <string name="api_key2">AIzaSyBZcFx0jUDE10uN-O8vHpH7XEZ1qx0pESs</string>
+</resources>
